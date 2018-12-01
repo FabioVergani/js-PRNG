@@ -10,3 +10,6 @@ Fino al 1867 tale numero era il più grande numero primo noto
 16807
 48271(4968th prime)
 % Modulus (Division Remainder)
+
+
+https://www.khanacademy.org/computer-programming/prng-test/5500564014432256/embedded?editor=no&buttons=no&author=no&embed=no
